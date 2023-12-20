@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-11T13:00:56 GMT-06:00" name="Suite1" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T13:00:56 GMT-06:00" name="myCases" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="97">
+      <class name="com.jccompany.app.MyCases">
+        <test-method signature="testFive()[pri:0, instance:com.jccompany.app.MyCases@35047d03]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testFive" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method signature="testFour()[pri:0, instance:com.jccompany.app.MyCases@35047d03]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testFour" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testOne()[pri:0, instance:com.jccompany.app.MyCases@35047d03]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testOne" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testThree()[pri:0, instance:com.jccompany.app.MyCases@35047d03]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testThree" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testTwo()[pri:0, instance:com.jccompany.app.MyCases@35047d03]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testTwo" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.jccompany.app.MyCases -->
+    </test> <!-- myCases -->
+  </suite> <!-- Suite1 -->
+  <suite started-at="2023-12-11T13:00:56 GMT-06:00" name="Suite2" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="5">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T13:00:56 GMT-06:00" name="myCasesNew" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="5">
+      <class name="com.jccompany.app.MyCasesNew">
+        <test-method signature="testEight()[pri:0, instance:com.jccompany.app.MyCasesNew@6a192cfe]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testEight" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEight -->
+        <test-method signature="testNine()[pri:0, instance:com.jccompany.app.MyCasesNew@6a192cfe]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testNine" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNine -->
+        <test-method signature="testSeven()[pri:0, instance:com.jccompany.app.MyCasesNew@6a192cfe]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testSeven" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeven -->
+        <test-method signature="testSix()[pri:0, instance:com.jccompany.app.MyCasesNew@6a192cfe]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testSix" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSix -->
+        <test-method signature="testTen()[pri:0, instance:com.jccompany.app.MyCasesNew@6a192cfe]" started-at="2023-12-11T13:00:56 GMT-06:00" name="testTen" finished-at="2023-12-11T13:00:56 GMT-06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTen -->
+      </class> <!-- com.jccompany.app.MyCasesNew -->
+    </test> <!-- myCasesNew -->
+  </suite> <!-- Suite2 -->
+</testng-results>
